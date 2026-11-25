@@ -1,16 +1,14 @@
 # Heal-Your-World
 
-Proyecto de análisis y diseño del sistema **Heal-Your-World**, desarrollado para la materia de [nombre de la materia], [semestre].
+**Heal Your World** es un RPG 2D con elementos de supervivencia, exploración y aventura gráfica, desarrollado en Godot con pixel art. Un mundo fantástico está contaminado por la maleza, que altera su flora, su fauna y su terreno. El jugador no viene a conquistarlo ni a destruirlo, sino a explorar, comprender y sanarlo.
 
-## Descripción
-
-Heal-Your-World es [descripción breve del proyecto en una o dos oraciones, por ejemplo: un juego/sistema que busca ...].
+Proyecto de análisis y diseño para la materia de Ingeniería de Software (Unidad II), Facultad de Ingeniería Electromecánica, Universidad de Colima, grupo 1.º D.
 
 ## Integrantes
 
 | Nombre | GitHub |
 |---|---|
-| [Nombre Apellido de geovelz] | [@geovelz-67](https://github.com/geovelz-67) |
+| Geogan Alexander Velazquez Garcia | [@geovelz-67](https://github.com/geovelz-67) |
 | Alejandro Elías Moreno | [@alex3141973567-sudo](https://github.com/alex3141973567-sudo) |
 
 ## Estructura del repositorio
@@ -23,12 +21,12 @@ Heal-Your-World/
 └── 3-pantallas/        # Diseño de pantallas en PNG
 ```
 
+## Análisis y diseño
+
+1. **Análisis de requerimientos:** [1-requerimientos/SRS.md](1-requerimientos/SRS.md)
+2. **Diseño UML:** [2-uml](2-uml/)
+3. **Diseño de pantallas:** [3-pantallas](3-pantallas/)
+
 ## Diseño de pantallas
 
-Enlace al diseño en Figma: [pegar enlace aquí]
-
-## Fases del proyecto
-
-1. **Análisis de requerimientos:** ver [1-requerimientos/SRS.md](1-requerimientos/SRS.md)
-2. **Diseño UML:** ver carpeta [2-uml](2-uml/)
-3. **Diseño de pantallas:** ver carpeta [3-pantallas](3-pantallas/)
+Enlace al diseño en Figma: ...
