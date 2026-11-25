@@ -7,8 +7,8 @@ Proyecto de análisis y diseño para la materia de Ingeniería de Software.
 
 | Nombre | GitHub |
 |---|---|
-| Geogan Alexander Velazquez Garcia | [@geovelz-67](https://github.com/geovelz-67) |
-| Alejandro Elías Moreno | [@alex3141973567-sudo](https://github.com/alex3141973567-sudo) |
+| Geogan Velazquez | [@geovelz-67](https://github.com/geovelz-67) |
+| Alejandro Moreno | [@alex3141973567-sudo](https://github.com/alex3141973567-sudo) |
 
 ## Estructura del repositorio
 
