@@ -1,0 +1,51 @@
+Especificación de Requerimientos de Software (SRS): Heal Your World
+
+Autores: Geogan Alexander Velazquez Garcia · Alejandro Elías Moreno
+Grupo: 1.º D · Facultad de Ingeniería Electromecánica, Universidad de Colima
+Versión: 1.0 · Fase de análisis y diseño
+
+1. Introducción
+1.1 Propósito
+
+Este documento define los requerimientos del videojuego Heal Your World, proyecto integrador que se desarrolla durante tres semestres. Sirve como base para el diseño (UML y pantallas) y para la implementación posterior.
+
+1.2 Alcance
+
+Heal Your World es un videojuego 2D en pixel art, para un solo jugador, desarrollado en Godot. El jugador explora un mundo contaminado por «la maleza», recolecta materiales, construye campamentos, cultiva semillas y purifica enemigos y zonas hasta sanar el mundo.
+
+Fuera de alcance: multijugador e historia compleja.
+
+1.3 Definiciones
+Término	Significado
+Maleza	Fuerza que contamina el mundo y crea seres que la protegen y expanden.
+Corrupción	Estado de contaminación de una zona; avanza con la basura y las derrotas del jugador.
+Purificación	Acción de lanzar un saco de semillas al foco de corrupción de un enemigo.
+Foco de corrupción	Punto débil de un enemigo corrupto.
+IQ	Sistema de progreso del protagonista, dividido en cuatro ramas independientes.
+Higea	Estatua divina que guía al jugador y muestra su progreso.
+Núcleo	Mini volcán final del mundo, que se purifica contra el jefe final.
+2. Descripción general
+2.1 Perspectiva del producto
+
+Videojuego independiente de RPG con elementos de supervivencia, exploración y aventura gráfica, con mecánicas inspiradas en Pokémon Legends: Arceus. El ciclo de juego es: explorar, enfrentar (esquivar y purificar), recolectar, construir campamentos, purificar y expandir, hasta llegar al núcleo.
+
+2.2 Usuarios
+
+Jugadores de 17 años en adelante, con enfoque juvenil, que disfrutan de la exploración y de decisiones con consecuencias.
+
+2.3 Funciones principales
+Exploración de un mapa circular dividido en zonas (5 en esta versión).
+Combate de fantasía basado en esquivar y purificar, sin violencia gráfica.
+Recolección de materiales naturales, ítems de enemigos y basura.
+Construcción de campamentos y cultivo de semillas.
+Progreso por cuatro ramas de IQ: Cultivo, Construcción, Purificación y Exploración.
+Propagación de la corrupción y dos finales (bueno y malo).
+2.4 Restricciones
+Motor: Godot, con GDScript como lenguaje principal.
+Plataforma: PC; celular queda como extra opcional.
+Gráficos 2D en pixel art, con tiles de 16×16 o 32×32.
+Controles en PC: WASD o flechas para moverse, Espacio para esquivar y Click para purificar.
+2.5 Suposiciones y dependencias
+El proyecto se entrega por etapas: diseño y prototipo (1.er semestre), mecánicas (2.º) y contenido y pulido (3.º).
+El prototipo incluye la zona 1 y un tramo corrupto de la zona 2.
+Los valores de balance (vida, daño, experiencia por nodo) se definen durante el desarrollo.
