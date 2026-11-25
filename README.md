@@ -2,8 +2,7 @@
 
 **Heal Your World** es un RPG 2D con elementos de supervivencia, exploración y aventura gráfica, desarrollado en Godot con pixel art. Un mundo fantástico está contaminado por la maleza, que altera su flora, su fauna y su terreno. El jugador no viene a conquistarlo ni a destruirlo, sino a explorar, comprender y sanarlo.
 
-Proyecto de análisis y diseño para la materia de Ingeniería de Software (Unidad II), Facultad de Ingeniería Electromecánica, Universidad de Colima, grupo 1.º D.
-
+Proyecto de análisis y diseño para la materia de Ingeniería de Software.
 ## Integrantes
 
 | Nombre | GitHub |
