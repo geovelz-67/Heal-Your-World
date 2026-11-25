@@ -29,4 +29,4 @@ Heal-Your-World/
 
 ## Diseño de pantallas
 
-Enlace al diseño en Figma: ...
+Enlace al diseño en Figma: [HealYourWorld-Pantallas](https://www.figma.com/design/lioi8m8y3ECYlbgbNVyrNn/HealYourWorld-Pantallas?node-id=1-13&t=IPUZCsCkkKimYJQ9-1)
